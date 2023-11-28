@@ -21,3 +21,5 @@ Shell 4:
 
 Shell 5:
 298, -394, -84
+
+Feel free to join my discord: https://discord.gg/aeJe5xdf2E
