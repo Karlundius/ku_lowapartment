@@ -1,6 +1,6 @@
 # ku_lowapartment
 
-Since many people liked my retexture of the midapartments, here is a free version for the lowapartments. 
+Many people liked my retexture of the midapartments, here is a free version for the lowapartments. 
 
 You need either a teleport script or (better) a housing script. I do not provide support to implement the shells in these scripts. 
 
