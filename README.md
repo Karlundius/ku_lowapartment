@@ -4,7 +4,7 @@ Many people liked my retexture of the midapartments, here is a free version for 
 
 You need either a teleport script or (better) a housing script. I do not provide support to implement the shells in these scripts. 
 
-Have fun with it if you use the shells on your servers :)
+Have fun :)
 
 Coordinates:
 Shell 1:
